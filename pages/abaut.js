@@ -11,10 +11,10 @@ const abaut = () => {
         </Head>
         <h1>abaut</h1>
         <p>
-          Elit aliquip proident minim culpa deserunt consectetur aute nulla.
-          Elit aliquip proident minim culpa deserunt consectetur aute nulla.
-          Elit aliquip proident minim culpa deserunt consectetur aute nulla.
-          Elit aliquip proident minim culpa deserunt consectetur aute nulla.
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia
+          expedita labore aliquid quod. Pariatur quia fuga dolorum nisi illo
+          doloribus temporibus! Ducimus iste harum velit voluptate? Aliquid
+          sequi pariatur ipsa?
         </p>
       </Container>
     </>

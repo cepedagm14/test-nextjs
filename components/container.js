@@ -11,7 +11,9 @@ const Container = (props) => {
           rel="stylesheet"
         />
       </Head>
+
       <Navigation />
+
       <div className="container m-3 p-4">{props.children}</div>
     </div>
   );

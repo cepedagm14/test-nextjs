@@ -17,7 +17,7 @@ const index = (props) => {
     </div>
   );
 };
-
+  
 index.getInitialProps = async () => {
   const response = await fetch(`https://reqres.in/api/users`);
   const respJson = await response.json();
